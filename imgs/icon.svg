@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="42mm"
+   height="42mm"
+   viewBox="0 0 42 42"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="logo.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-69.690758,-94.226501)">
+    <rect
+       style="fill:none;stroke:#8c8a80;stroke-width:2;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       id="rect344"
+       width="40"
+       height="40"
+       x="70.690758"
+       y="95.226501" />
+    <path
+       style="fill:none;stroke:#8c8a80;stroke-width:2;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       d="M 70.690758,115.2265 H 110.69076"
+       id="path1011" />
+    <g
+       aria-label="D"
+       transform="scale(1.0461303,0.95590385)"
+       id="text186"
+       style="font-weight:bold;font-size:51.2092px;font-family:Boska;-inkscape-font-specification:'Boska Bold';fill:#eeebd3;stroke-width:2.41711;stroke-miterlimit:0">
+      <path
+         d="m 72.353069,102.64432 h 3.277389 v 35.79523 h -3.277389 v 0.40968 h 13.365602 c 10.753932,0 15.311549,-7.42534 15.311549,-19.20345 0,-12.13658 -4.864872,-17.41113 -16.335733,-17.41113 H 72.353069 Z m 12.341418,0 c 6.964451,0 9.166447,5.12092 9.166447,17.00146 0,11.82932 -1.997159,18.79377 -8.142263,18.79377 h -3.072552 v -35.79523 z"
+         id="path4023" />
+    </g>
+    <path
+       style="color:#000000;fill:#8c8a80;stroke-miterlimit:0;-inkscape-stroke:none"
+       d="m 89.691406,95.226562 v 39.999998 h 2 V 95.226562 Z"
+       id="path1013" />
+    <rect
+       style="fill:#eeebd3;fill-opacity:1;stroke:#8c8a80;stroke-width:2;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4999"
+       width="2"
+       height="2"
+       x="89.691406"
+       y="114.2265" />
+  </g>
+</svg>
