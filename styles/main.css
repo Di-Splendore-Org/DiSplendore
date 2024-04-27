@@ -95,9 +95,15 @@ body {
 /* NOSOTROS */
 /* -------------------------------------------------- */
 #nosotrosSectionDiv {
-    background-color: #1a1d2080;
+    background-color: #1a1d2070;
     & p {
         text-indent: 3em;
         text-align: justify;
     }
+}
+#nosotrosGaleriaDiv {
+    background-color: #1a1d20;
+    width: 90%;
+    padding: 1%;
+    margin-bottom: 20px;
 }
