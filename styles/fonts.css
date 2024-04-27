@@ -17,6 +17,33 @@
          font-style: normal;
 }
 @font-face {
+    font-family: 'Boska-Medium';
+    src: url('../fonts/Boska/Boska-Medium.woff2') format('woff2'),
+         url('../fonts/Boska/Boska-Medium.woff') format('woff'),
+         url('../fonts/Boska/Boska-Medium.ttf') format('truetype');
+         font-weight: 600;
+         font-display: swap;
+         font-style: normal;
+}
+@font-face {
+    font-family: 'Boska-Bold';
+    src: url('../fonts/Boska/Boska-Bold.woff2') format('woff2'),
+         url('../fonts/Boska/Boska-Bold.woff') format('woff'),
+         url('../fonts/Boska/Boska-Bold.ttf') format('truetype');
+         font-weight: 800;
+         font-display: swap;
+         font-style: normal;
+}
+@font-face {
+    font-family: 'Boska-Black';
+    src: url('../fonts/Boska/Boska-Black.woff2') format('woff2'),
+         url('../fonts/Boska/Boska-Black.woff') format('woff'),
+         url('../fonts/Boska/Boska-Black.ttf') format('truetype');
+         font-weight: 800;
+         font-display: swap;
+         font-style: normal;
+}
+@font-face {
     font-family: 'Stardom';
     src: url('../fonts/Stardom/Stardom-Regular.woff2') format('woff2'),
          url('../fonts/Stardom/Stardom-Regular.woff') format('woff'),

@@ -1,0 +1,91 @@
+:root {
+    --color1: #eeebd3;
+    --color2: #b3b0a2;
+    --color3: #F4F1E1;
+    --color4: #1a1d20;
+}
+html {
+    height: 100%;
+}
+body {
+    font-family: "Boska-Medium";
+    color: var(--color1);
+}
+/* -------------------------------------------------- */
+/* BODY's */
+/* -------------------------------------------------- */
+.landing {
+    background-image: url(../imgs/backgrounds/landing.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.explorar {
+    background-image: url(../imgs/backgrounds/explorar.jpg);
+    background-repeat: no-repeat;
+    height: 200vh;
+}
+.contacto {
+    background-image: url(../imgs/backgrounds/contacto.jpg);
+    background-repeat: no-repeat;
+    height: 200vh;
+}
+.nosotros {
+    background-image: url(../imgs/backgrounds/nosotros.jpg);
+    background-repeat: no-repeat;
+    height: 200vh;
+}
+.login {
+    background-image: url(../imgs/backgrounds/login.jpg);
+    background-repeat: no-repeat;
+    height: 200vh;
+}
+/* -------------------------------------------------- */
+/* LANDING */
+/* -------------------------------------------------- */
+/* NAV */
+#landingExplorarBtn {
+    font-family: Boska-Bold;
+    text-transform: uppercase;
+    color: var(--color1);
+    border: 2px solid var(--color1);
+    &:hover {
+        color: var(--color4);
+        background-color: var(--color1);
+    }
+}
+/* -------------------------------------------------- */
+/* HEADER */
+/* -------------------------------------------------- */
+/* NAV BAR */
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: var(--color1);
+}
+.nav-link {
+    color: var(--color2);
+    &:hover {
+        color: var(--color3);
+    }
+}
+.active {
+    text-decoration: underline;
+}
+/* SEARCHING BAR */
+.searchBar {
+    background-color: var(--color4);
+    color: var(--color1);
+    font-family: "Boska-Bold";
+    &::placeholder {
+        color: var(--color2);
+    }
+}
+.searchBarBtn {
+    background-color: var(--color1);
+    color: var(--color4);
+    &:hover {
+        background-color: var(--color4);
+        color: var(--color1);
+    }
+}
+/* -------------------------------------------------- */
+/*  */
+/* -------------------------------------------------- */
