@@ -29,7 +29,6 @@ body {
     background-image: url(../imgs/backgrounds/contacto.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    height: 200vh;
 }
 .nosotros {
     background-image: url(../imgs/backgrounds/nosotros.jpg);
@@ -105,4 +104,24 @@ body {
     width: 90%;
     padding: 1%;
     margin-bottom: 20px;
+}
+/* -------------------------------------------------- */
+/* CONTACTO */
+/* -------------------------------------------------- */
+#contactoFormDiv {
+    background-color: #1a1d2070;
+    font-size: 1.2em;
+    width: 90%;
+    padding: 1%;
+    margin: 20px auto;
+}
+#contactoFormBtn {
+    background-color: var(--color4);
+    font-family: Boska-Black;
+    font-size: 1em;
+    text-transform: uppercase;
+    color: var(--color1);
+    letter-spacing: 2px;
+    padding: 1% 3%;
+    border: none;
 }
