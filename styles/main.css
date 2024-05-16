@@ -24,25 +24,21 @@ body {
     background-image: url(../imgs/backgrounds/explorar.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    height: 200vh;
 }
 .contacto {
     background-image: url(../imgs/backgrounds/contacto.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    height: 200vh;
 }
 .nosotros {
     background-image: url(../imgs/backgrounds/nosotros.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    height: 200vh;
 }
 .login {
     background-image: url(../imgs/backgrounds/login.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    height: 200vh;
 }
 /* -------------------------------------------------- */
 /* LANDING */
